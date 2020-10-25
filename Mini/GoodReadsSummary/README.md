@@ -14,4 +14,4 @@
 
 ## Hint
 
-* Research the pandas `sum()` method.
+* Research the pandas `sum()` method..
